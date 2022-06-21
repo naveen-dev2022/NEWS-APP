@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051006424570",
+    "project_id": "news-app-360ad",
+    "storage_bucket": "news-app-360ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051006424570:android:9d94c39880cb715e698043",
+        "android_client_info": {
+          "package_name": "com.getxpattern.getx_pattern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051006424570-l6uo7lcfpunj82hij880rm92frqf363j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwzh9AsQeYA4Zr64h6lX1AeNIUC4e4wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051006424570-l6uo7lcfpunj82hij880rm92frqf363j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
