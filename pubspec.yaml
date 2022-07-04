@@ -1,0 +1,132 @@
+name: getx_pattern
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.16.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  get_storage: ^2.0.3
+  fluttertoast: ^8.0.9
+  dio: ^4.0.6
+  sizer: ^2.0.15
+  curved_navigation_bar: ^1.0.3
+  cached_network_image: ^3.0.0
+  flutter_spinkit: ^5.1.0
+  timeago: ^3.2.2
+  quiver: ^3.1.0
+  flutter_svg: ^1.0.0
+  connectivity_plus: ^2.3.0
+  skeleton_loader: ^2.0.0+4
+  animations: ^2.0.0
+  intl: ^0.17.0
+  geocoding: ^2.0.4
+  geolocator: ^8.2.1
+  substring_highlight: ^1.0.33
+  url_launcher: ^6.1.2
+  firebase_auth: ^3.3.0
+  google_sign_in: ^5.3.0
+  firebase_core: ^1.12.0
+  google_fonts: ^3.0.1
+  delayed_display: ^2.0.0
+  permission_handler: ^9.2.0
+
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_launcher_icons: ^0.9.3
+  flutter_test: 
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/app_logo.jpg"
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: poppins_bold
+      fonts:
+        - asset: assets/fonts/poppins_bold.ttf
+
+    - family: Helvetica_Neue_medium1
+      fonts:
+        - asset: assets/fonts/Helvetica_Neue_medium1.ttf
+
+    - family: poppins_regular
+      fonts:
+        - asset: assets/fonts/poppins_regular.ttf
+
+    - family: avenir_roman
+      fonts:
+        - asset: assets/fonts/avenir_roman.ttf
+
+    - family: avenir_heavy
+      fonts:
+        - asset: assets/fonts/avenir_heavy.ttf
+
+    - family: montserrat_bold
+      fonts:
+        - asset: assets/fonts/Montserrat-Bold.ttf
+
+    - family: montserrat_medium
+      fonts:
+        - asset: assets/fonts/Montserrat-Medium.ttf
+
+    - family: montserrat_regular
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+
+    - family: montserrat_thin
+      fonts:
+        - asset: assets/fonts/Montserrat-Thin.ttf
+
+    - family: montserrat_light
+      fonts:
+        - asset: assets/fonts/Montserrat-Light.ttf
+
+    - family: gotham_black
+      fonts:
+        - asset: assets/fonts/Gotham-Black.otf
+
+    - family: gotham_thin
+      fonts:
+        - asset: assets/fonts/Gotham-Thin.otf
+
+    - family: gotham_xlight
+      fonts:
+        - asset: assets/fonts/Gotham-XLight.otf
+
+    - family: gotham_bold
+      fonts:
+        - asset: assets/fonts/Gotham-Bold.otf
+
+    - family: gotham_light
+      fonts:
+        - asset: assets/fonts/GothamLight.ttf
+
+    - family: gotham_medium
+      fonts:
+        - asset: assets/fonts/GothamMedium.ttf
+
+    - family: quicksand_medium
+      fonts:
+        - asset: assets/fonts/Quicksand-Medium.ttf
+
+    - family: quicksand_regular
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+
+    - family: quicksand_semibold
+      fonts:
+        - asset: assets/fonts/Quicksand-SemiBold.ttf
+
